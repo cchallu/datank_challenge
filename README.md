@@ -17,8 +17,7 @@ local_user@local_host$ conda env create -f datank_challenge.yml
 
 # Data
 Should be place in path './data/'
-NYC trip record data. More information in:
-http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+NYC trip record data.
 
 | Field Name | Description |
 | :---         | :---           |
@@ -41,3 +40,5 @@ http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 | tip_amount   | amount – This field is automatically populated for credit card tips. Cash tips are not included.      |
 | tolls_amount   | Total amount of all tolls paid in trip.      |
 | total_amount   | The total amount charged to passengers. Does not include cash tips.      |
+
+More information in: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
