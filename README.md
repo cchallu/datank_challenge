@@ -43,7 +43,7 @@ NYC trip record data.
 
 More information in: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 
-# Data
+# Analysis
 ```console
-local_user@local_host$ jupyter notebook datank_challenge.ipynb
+local_user@local_host$ jupyter notebook source/datank_challenge.ipynb
 ```
