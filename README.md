@@ -22,8 +22,7 @@ http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 
 | Field Name | Description |
 | :---         | :---           |
-| vendorid   | A code indicating the TPEP provider that provided the record.\       |
-|            | 1= Creative Mobile Technologies, LLC; 2= VeriFone Inc              |
+| vendorid   | A code indicating the TPEP provider that provided the record.\ 1= Creative Mobile Technologies, LLC; 2= VeriFone Inc              |
 | tpep_pickup_datetime   |       |
 | tpep_dropoff_datetime   |       |
 | passenger_count   |       |
