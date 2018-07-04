@@ -1,14 +1,5 @@
 # DATANK challenge
-
-Dependencies:
-- pandas
-- jupyter
-- ipython
-- scipy
-- sklearn
-- matplotlib
-- seaborn
-- ggplot
+Dependencies: pandas, jupyter, ipython, scipy, sklearn, matplotlib, seaborn, ggplot
 
 # Python environment
 ```console
