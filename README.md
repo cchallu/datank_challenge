@@ -42,3 +42,8 @@ NYC trip record data.
 | total_amount   | The total amount charged to passengers. Does not include cash tips.      |
 
 More information in: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+
+# Data
+```console
+local_user@local_host$ jupyter notebook datank_challenge.ipynb
+```
