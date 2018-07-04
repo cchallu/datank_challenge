@@ -16,11 +16,14 @@ local_user@local_host$ conda env create -f datank_challenge.yml
 ```
 
 # Data
-NYC trip record data. Should be place in path './data/'
+Should be place in path './data/'
+NYC trip record data. More information in:
+http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 
 | Field Name | Description |
 | :---         | :---           |
-| vendorid   | A code indicating the TPEP provider that provided the record. 1= Creative Mobile Technologies, LLC; 2= VeriFone Inc      |
+| vendorid   | A code indicating the TPEP provider that provided the record.       |
+|            | \1= Creative Mobile Technologies, LLC; 2= VeriFone Inc              |
 | tpep_pickup_datetime   |       |
 | tpep_dropoff_datetime   |       |
 | passenger_count   |       |
